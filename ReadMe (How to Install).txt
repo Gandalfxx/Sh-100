@@ -78,7 +78,7 @@ pip install --upgrade pip
 
 source /root/nulink-venv/bin/activate
 
-python -c "import nulink"
+python -c  "import nulink"
 
 nulink --help
 
