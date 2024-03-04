@@ -14,7 +14,7 @@ echo \
 
 sudo apt-get update
 
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+sudo  apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 sudo docker run hello-world
 
